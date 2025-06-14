@@ -1,0 +1,16 @@
+export const messages = {
+    UNAUTHORIZED: "Unauthorized access",
+    FIELDS_REQUIRED: "Please fill all fields",
+    EMAIL_EXISTS: "Email already exists",
+    INVALID_EMAIL: "Invalid email address",
+    INVALID_PASSWORD: "Invalid password",
+    LOGIN_SUCCESS: "Login successful",
+    REGISTRATION_SUCCESS: "User successfully registered",
+    INTERNAL_ERROR: "Internal server error",
+    LOGOUT_SUCCESS:"Logout successfully",
+    TODO_CREATED:"Todo created successfully",
+    TODO_UPDATED:"Todo updated successfully",
+    TODO_DELETED:"Todo deleted successfully",
+    TODO_NOT_FOUND:"Todo not found",
+    TODO_STATUS_CHANGED:"Todo status changed successfully",
+};
